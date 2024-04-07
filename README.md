@@ -17,7 +17,7 @@ https://github.com/Kartik-Suvarna/Burglar-alarm-system-Arduino-/assets/73068433/
 
 ![Circuit Diagram](https://github.com/Kartik-Suvarna/Burglar-alarm-system-Arduino-/assets/73068433/cbadbbfb-8530-4685-95f1-2dc66ae06b74)
 
-![[tinkercad](https://github.com/Kartik-Suvarna/Burglar-alarm-system-Arduino-/assets/73068433/ca142d9b-714f-41cf-bf5d-1bbf833c6e7e)
+![tinkercad](https://github.com/Kartik-Suvarna/Burglar-alarm-system-Arduino-/assets/73068433/ca142d9b-714f-41cf-bf5d-1bbf833c6e7e)
 
 ## Installation
 
