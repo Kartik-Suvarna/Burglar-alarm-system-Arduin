@@ -1,5 +1,3 @@
-#include <SoftwareSerial.h>
-
 int pir_sensor = 11;
 int pin= 5;
 int buzz = 3;
@@ -23,7 +21,7 @@ void play(){
   delay (700);
   tone(buzz,300,345);
   digitalWrite(pin, LOW);
-  delay(700);`
+  delay(700);
   tone(buzz,300,345);
   digitalWrite(pin, HIGH);
   delay(700);
